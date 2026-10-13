@@ -1,5 +1,4 @@
 # SDGAD
-
 Code for ICML2026 paper “Learning Discriminative and Generalizable Anomaly Detector for Dynamic Graph with Limited Supervision”
 
 # Datasets and Preprocessing
